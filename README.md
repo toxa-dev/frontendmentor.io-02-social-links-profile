@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live site](http://toxa-dev.github.io/frontendmentor.io-social-links-profile)
+- Live Site URL: [Live site](https://toxa-dev.github.io/frontendmentor.io-social-links-profile-02/)
 
 ## My process
 
