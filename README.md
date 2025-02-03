@@ -35,6 +35,7 @@ Users should be able to:
 
 ChatGPT offered an alternative HTML. I'm not sure if it's better or not; I need to work on my HTML skills.
 
+```html
 <main>
   <article class="profile">
     <figure class="profile-photo">
