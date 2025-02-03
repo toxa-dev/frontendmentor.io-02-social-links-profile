@@ -60,7 +60,7 @@ ChatGPT offered an alternative HTML. I'm not sure if it's better or not; I need 
     </nav>
   </article>
 </main>
-
+```html
 ## Author
 
 - [GitHub Repository Hub](https://toxa-dev.github.io/)
