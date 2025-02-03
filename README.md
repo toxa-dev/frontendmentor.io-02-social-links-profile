@@ -62,7 +62,7 @@ ChatGPT offered an alternative HTML. I'm not sure if it's better or not; I need 
 </main>
 ```
 
-Mine:
+Current version:
 ```html
   <main>
     <article class="profile">
@@ -93,6 +93,7 @@ Mine:
     </article>
   </main>
 ```
+
 ## Author
 
 - [GitHub Repository Hub](https://toxa-dev.github.io/)
