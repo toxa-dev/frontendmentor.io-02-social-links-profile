@@ -61,6 +61,38 @@ ChatGPT offered an alternative HTML. I'm not sure if it's better or not; I need 
   </article>
 </main>
 ```
+
+Mine:
+```html
+  <main>
+    <article class="profile">
+      <section class="profile-photo">
+        <figure>
+          <img src="assets/images/avatar-jessica.jpeg" alt="Jessica Randall's avatar">
+        </figure>
+      </section>
+
+      <section class="profile-info">
+        <h1 class="profile-name">Jessica Randall</h1>
+        <p class="profile-location">London, United Kingdom</p>
+      </section>
+
+      <section class="profile-description">
+        <p>"Front-end developer and avid reader."</p>
+      </section>
+
+      <section class="profile-socials">
+        <ul>
+          <li><a href="#">GitHub</a></li>
+          <li><a href="#">Frontend Mentor</a></li>
+          <li><a href="#">LinkedIn</a></li>
+          <li><a href="#">Twitter</a></li>
+          <li><a href="#">Instagram</a></li>
+        </ul>
+      </section>
+    </article>
+  </main>
+```
 ## Author
 
 - [GitHub Repository Hub](https://toxa-dev.github.io/)
