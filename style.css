@@ -83,8 +83,7 @@ main {
 .profile-socials li a:focus {
     background-color: var(--text-color-standout);
     color: var(--social-color);
-    transition: background-color 0.3s ease;
-    transition: color 0.1s ease;
+    transition: background-color 0.3s ease, color 0.1s ease;
     outline: 0;
 }
 
